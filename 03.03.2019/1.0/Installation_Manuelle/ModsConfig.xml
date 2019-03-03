@@ -1,1 +1,171 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<ModsConfigData>
+  <version>1.0.2150 rev801</version>
+  <activeMods>
+    <li>Core</li>
+    <li>__LocalCopy_Mod Manager_(3-3)</li>
+    <li>__LocalCopy_HugsLib_(3-3)</li>
+    <li>__LocalCopy_Psychology_(3-3)</li>
+    <li>__LocalCopy_[T] MoreFloors_(3-3)</li>
+    <li>__LocalCopy_Allow Tool_(3-3)</li>
+    <li>__LocalCopy_Quarry 1.0_(3-3)</li>
+    <li>__LocalCopy_More Steel from Slag_(3-3)</li>
+    <li>__LocalCopy_[sd] advanced powergeneration_(3-3)</li>
+    <li>__LocalCopy_Advanced Shield Belts_(3-3)</li>
+    <li>__LocalCopy_While You're Up [1.0]_(3-3)</li>
+    <li>__LocalCopy_Wealthy Traders 1.0_(3-3)</li>
+    <li>__LocalCopy_Ugh You Got Me_(3-3)</li>
+    <li>__LocalCopy_Turn It On and Off v1.3 [1.0]_(3-3)</li>
+    <li>__LocalCopy_Sun Lights [1.0]_(3-3)</li>
+    <li>__LocalCopy_Reasonable Components V1_(3-3)</li>
+    <li>__LocalCopy_Nature is Beautiful v1.4 [1.0]_(3-3)</li>
+    <li>__LocalCopy_More Furniture [1.0]_(3-3)</li>
+    <li>__LocalCopy_Glitterworld medicine craftable_(3-3)</li>
+    <li>__LocalCopy_Deconstruct Return Fix_(3-3)</li>
+    <li>__LocalCopy_Additional Joy Objects Classic_(3-3)</li>
+    <li>__LocalCopy_[XND] Memorable Auroras_(3-3)</li>
+    <li>__LocalCopy_[SYR] Set Up Camp_(3-3)</li>
+    <li>__LocalCopy_[SYR] Harvest Yield Patch_(3-3)</li>
+    <li>__LocalCopy_[SYR] Bullet Casings_(3-3)</li>
+    <li>__LocalCopy_[KV] Trading Spot - 1.0_(3-3)</li>
+    <li>__LocalCopy_[KV] Show Hair With Hats or Hide All Hats - 1.0_(3-3)</li>
+    <li>__LocalCopy_[KV] Path Avoid - 1.0_(3-3)</li>
+    <li>__LocalCopy_[FSF] Improved Vanometric Power Cells_(3-3)</li>
+    <li>__LocalCopy_[FSF] Growable Grass_(3-3)</li>
+    <li>__LocalCopy_[FSF] Growable Ambrosia_(3-3)</li>
+    <li>__LocalCopy_[FSF] Encounter Map Resources_(3-3)</li>
+    <li>__LocalCopy_[CP] Prisoner Outfit (1.0)_(3-3)</li>
+    <li>__LocalCopy_[L]MoreDetailBody_(3-3)</li>
+    <li>__LocalCopy_[1.0]Long Range Transport Pods_(3-3)</li>
+    <li>__LocalCopy_[1.0] Wild Animal Sex V4.1_(3-3)</li>
+    <li>__LocalCopy_[1.0] RePower_(3-3)</li>
+    <li>__LocalCopy_Xeva's Rimhair_(3-3)</li>
+    <li>__LocalCopy_Why Can't I Craft Neutroamine_!_(3-3)</li>
+    <li>__LocalCopy_Wall Light_(3-3)</li>
+    <li>__LocalCopy_Verge of Galaxy (Music Mod) 1.0.0_(3-3)</li>
+    <li>__LocalCopy_Use Bedrolls_(3-3)</li>
+    <li>__LocalCopy_Tilled Soil_(3-3)</li>
+    <li>__LocalCopy_Therapy_(3-3)</li>
+    <li>__LocalCopy_Prison Labor_(3-3)</li>
+    <li>__LocalCopy_Hospitality_(3-3)</li>
+    <li>__LocalCopy_The Price Is Right_(3-3)</li>
+    <li>__LocalCopy_The Birds and the Bees_(3-3)</li>
+    <li>__LocalCopy_Sun Lamp Power_(3-3)</li>
+    <li>__LocalCopy_Stubbed Toe_(3-3)</li>
+    <li>__LocalCopy_Stony campfire_(3-3)</li>
+    <li>__LocalCopy_Steel extraction_(3-3)</li>
+    <li>__LocalCopy_Stack XXL_(3-3)</li>
+    <li>__LocalCopy_Sparkling Worlds - Full Mod_(3-3)</li>
+    <li>__LocalCopy_Snap Out!_(3-3)</li>
+    <li>__LocalCopy_Smart Speed_(3-3)</li>
+    <li>__LocalCopy_Smart Medicine_(3-3)</li>
+    <li>__LocalCopy_Skilled Stonecutting_(3-3)</li>
+    <li>__LocalCopy_Simple sidearms_(3-3)</li>
+    <li>__LocalCopy_Simple Recycling_(3-3)</li>
+    <li>__LocalCopy_Simple Bulk Cooking_(3-3)</li>
+    <li>__LocalCopy_Share The Load_(3-3)</li>
+    <li>__LocalCopy_SF [v1.0] Rain Removes All Filth_(3-3)</li>
+    <li>__LocalCopy_SF [v1.0] Priority Treatment_(3-3)</li>
+    <li>__LocalCopy_Room Sense_(3-3)</li>
+    <li>__LocalCopy_Rimlaser_(3-3)</li>
+    <li>__LocalCopy_Rimatomics_(3-3)</li>
+    <li>__LocalCopy_Respect the Scars [1.0]_(3-3)</li>
+    <li>__LocalCopy_Research Tree_(3-3)</li>
+    <li>__LocalCopy_Replace Stuff_(3-3)</li>
+    <li>__LocalCopy_RenameColony_(3-3)</li>
+    <li>__LocalCopy_Rejuvenate surgery_(3-3)</li>
+    <li>__LocalCopy_Realistic Rooms_(3-3)</li>
+    <li>__LocalCopy_QualityBuilder_(3-3)</li>
+    <li>__LocalCopy_PrisonerRansom_(3-3)</li>
+    <li>__LocalCopy_Plant Growth Sync_(3-3)</li>
+    <li>__LocalCopy_Pick Up And Haul_(3-3)</li>
+    <li>__LocalCopy_More Vanilla Turrets [1.0]_(3-3)</li>
+    <li>__LocalCopy_More Trade Ships_(3-3)</li>
+    <li>__LocalCopy_More Steel_(3-3)</li>
+    <li>__LocalCopy_More Faction Interaction_(3-3)</li>
+    <li>__LocalCopy_More Components_(3-3)</li>
+    <li>__LocalCopy_Misc. Robots_(3-3)</li>
+    <li>__LocalCopy_Mercer's Backpacks + Nano Suit (B19)_(3-3)</li>
+    <li>__LocalCopy_MendAndRecycle_(3-3)</li>
+    <li>__LocalCopy_Medical Tab_(3-3)</li>
+    <li>__LocalCopy_Masturbation_(3-3)</li>
+    <li>__LocalCopy_Mad Skills_(3-3)</li>
+    <li>__LocalCopy_Locks_(3-3)</li>
+    <li>__LocalCopy_Interaction Bubbles_(3-3)</li>
+    <li>__LocalCopy_Inspiration_(3-3)</li>
+    <li>__LocalCopy_Furnace_(3-3)</li>
+    <li>__LocalCopy_Follow Me_(3-3)</li>
+    <li>__LocalCopy_Feed The Colonists_(3-3)</li>
+    <li>__LocalCopy_Fallout Traits_(3-3)</li>
+    <li>__LocalCopy_Expanded Prosthetics and Organ Engineering_(3-3)</li>
+    <li>__LocalCopy_EdB Prepare Carefully_(3-3)</li>
+    <li>__LocalCopy_ED-Laser Drill_(3-3)</li>
+    <li>__LocalCopy_ED-Embrasures_(3-3)</li>
+    <li>__LocalCopy_Door Mat R1.0_(3-3)</li>
+    <li>__LocalCopy_Defensive Positions_(3-3)</li>
+    <li>__LocalCopy_Deep Ore Identifier_(3-3)</li>
+    <li>__LocalCopy_Colony Manager_(3-3)</li>
+    <li>__LocalCopy_Cheaper Components_(3-3)</li>
+    <li>__LocalCopy_CaravanOptions_(3-3)</li>
+    <li>__LocalCopy_Camping Stuff_(3-3)</li>
+    <li>__LocalCopy_Camera+_(3-3)</li>
+    <li>__LocalCopy_Bulk Components_(3-3)</li>
+    <li>__LocalCopy_Blueprints_(3-3)</li>
+    <li>__LocalCopy_Better Roads_(3-3)</li>
+    <li>__LocalCopy_99 Percent_(3-3)</li>
+    <li>__LocalCopy_MoreMonstergirls_(3-3)</li>
+    <li>__LocalCopy_Gas Traps And Shells_(3-3)</li>
+    <li>__LocalCopy_Smaller Rooms_(3-3)</li>
+    <li>__LocalCopy_Omni Core Drill_(3-3)</li>
+    <li>__LocalCopy_[v1.0]-LinkableDoors_(3-3)</li>
+    <li>__LocalCopy_Harvest Organs Post Mortem - 4.1 [1.0]_(3-3)</li>
+    <li>__LocalCopy_Plasteel Surgery_(3-3)</li>
+    <li>__LocalCopy_Romance Tweaks_(3-3)</li>
+    <li>__LocalCopy_Large Outposts_(3-3)</li>
+    <li>__LocalCopy_Misc. Training_(3-3)</li>
+    <li>__LocalCopy_Various Space Ship Chunk_(3-3)</li>
+    <li>__LocalCopy_Rah's Bionics and Surgery Expansion_(3-3)</li>
+    <li>__LocalCopy_Sometimes Raids Go Wrong_(3-3)</li>
+    <li>__LocalCopy_Veinminer R1.0_(3-3)</li>
+    <li>__LocalCopy_Night Light [1.0]_(3-3)</li>
+    <li>__LocalCopy_[SYR] Scar Removal_(3-3)</li>
+    <li>__LocalCopy_[1.0] Dire Raids_(3-3)</li>
+    <li>__LocalCopy_Regeneration Bay_(3-3)</li>
+    <li>__LocalCopy_Change map edge limit_(3-3)</li>
+    <li>__LocalCopy_[SYR] Prosthetic Table_(3-3)</li>
+    <li>__LocalCopy_Small Comms Console [1.0]_(3-3)</li>
+    <li>__LocalCopy_Cargo Pod Transport[1.0]_(3-3)</li>
+    <li>__LocalCopy_RimEVE (Music Pack)_(3-3)</li>
+    <li>__LocalCopy_[KV] Improved Load Transport Pods_(3-3)</li>
+    <li>__LocalCopy_[1.0] Disasters_ Tornado_(3-3)</li>
+    <li>__LocalCopy_[1.0] Cheap Mortar Shell_(3-3)</li>
+    <li>__LocalCopy_Shock Weapons (Less Lethal)_(3-3)</li>
+    <li>__LocalCopy_Open Door Manually_(3-3)</li>
+    <li>__LocalCopy_Let's Trade! [1.0]_(3-3)</li>
+    <li>__LocalCopy_Selling prisoners with no guilt_(3-3)</li>
+    <li>__LocalCopy_Prisoner Harvesting_(3-3)</li>
+    <li>__LocalCopy_DeadMansClothing_(3-3)</li>
+    <li>__LocalCopy_no disturbed sleep_(3-3)</li>
+    <li>__LocalCopy_Prisoner Capture and Manipulation_(3-3)</li>
+    <li>__LocalCopy_Wall Vitals Monitor_(3-3)</li>
+    <li>__LocalCopy_Loot Boxes_(3-3)</li>
+    <li>__LocalCopy_[PS] Barber Pod_(3-3)</li>
+    <li>__LocalCopy_Alpha Animals_(3-3)</li>
+    <li>__LocalCopy_Craft Orbital Power Beam Targeter and Orbital Targeter Bombardment_(3-3)</li>
+    <li>__LocalCopy_Wedding Ring_(3-3)</li>
+    <li>__LocalCopy_Religions of Rimworld_(3-3)</li>
+    <li>__LocalCopy_Praise the Emperor_(3-3)</li>
+    <li>__LocalCopy_Greyer morals mod._(3-3)</li>
+    <li>__LocalCopy_Bulk Carrier_(3-3)</li>
+    <li>__LocalCopy_Bulk Stonecutting_(3-3)</li>
+    <li>__LocalCopy_Bulk Steel Extraction_(3-3)</li>
+    <li>__LocalCopy_WzrdCarry_(3-3)</li>
+    <li>__LocalCopy_Grass Is Hay_(3-3)</li>
+    <li>__LocalCopy_Subsurface Conduit_(3-3)</li>
+    <li>__LocalCopy_Disable Sappers_(3-3)</li>
+    <li>__LocalCopy_Electric Stonecutting Table_(3-3)</li>
+    <li>__LocalCopy_Un-Limited_(3-3)</li>
+    <li>__LocalCopy_RIMkea_(3-3)</li>
+    <li>__LocalCopy_[KV] More Trait Slots - 1.0_(3-3)</li>
+  </activeMods>
+</ModsConfigData>
