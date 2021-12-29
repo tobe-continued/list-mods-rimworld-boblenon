@@ -2296,49 +2296,27 @@
 	<equipment>
 		<li>
 			<def>Silver</def>
-			<count>800</count>
+			<count>2000</count>
+		</li>
+		<li>
+			<def>Gold</def>
+			<count>30</count>
 		</li>
 		<li>
 			<def>MealSurvivalPack</def>
-			<count>50</count>
+			<count>40</count>
 		</li>
 		<li>
-			<def>MedicineIndustrial</def>
+			<def>MedicineUltratech</def>
 			<count>30</count>
 		</li>
 		<li>
-			<def>ComponentIndustrial</def>
-			<count>30</count>
-		</li>
-		<li>
-			<def>Gun_BoltActionRifle</def>
+			<def>Gun_ChargeRifle</def>
 			<count>1</count>
 		</li>
 		<li>
-			<def>Gun_Revolver</def>
-			<count>1</count>
-		</li>
-		<li>
-			<def>MeleeWeapon_Knife</def>
-			<stuffDef>Plasteel</stuffDef>
-			<count>1</count>
-		</li>
-		<li>
-			<def>Apparel_FlakPants</def>
-			<count>1</count>
-		</li>
-		<li>
-			<def>Apparel_FlakVest</def>
-			<count>1</count>
-		</li>
-		<li>
-			<def>Apparel_AdvancedHelmet</def>
-			<stuffDef>Plasteel</stuffDef>
-			<count>1</count>
-		</li>
-		<li>
-			<def>AA_AnimusVox</def>
-			<gender>Female</gender>
+			<def>AEXP_CatMaineCoon</def>
+			<gender>Male</gender>
 			<count>1</count>
 		</li>
 		<li>
@@ -2346,13 +2324,17 @@
 			<count>450</count>
 		</li>
 		<li>
-			<def>WoodLog</def>
+			<def>VFEArch_WoodLog_Walnut</def>
 			<count>300</count>
 		</li>
 		<li>
-			<def>ModernTent</def>
+			<def>FoldingTent</def>
 			<stuffDef>Cloth</stuffDef>
-			<count>3</count>
+			<count>1</count>
+		</li>
+		<li>
+			<def>ComponentIndustrial</def>
+			<count>30</count>
 		</li>
 	</equipment>
 </preset>
