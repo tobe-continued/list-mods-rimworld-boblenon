@@ -1,0 +1,2358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preset>
+	<version>5</version>
+	<mods>Harmony, Core, Royalty, Ideology, HugsLib, JecsTools, Royalty Tweaks, RimHUD, XML Extensions, Vanilla Expanded Framework, Vanilla Expanded - Royalty Patches, [FSF] Vanilla Bionics Expansion, Vanilla Furniture Expanded - Architect, More Vanilla Turrets 1.1+, More Vanilla Biomes, Vanilla Weapons Expanded - Laser, Vanilla Weapons Expanded, Vanilla Weapons Expanded - Heavy Weapons, Vanilla Weapons Expanded - Coilguns, Vanilla Factions Expanded - Settlers, Vanilla Weapons Expanded - Frontier, Vanilla Weapons Expanded - Non-Lethal, Vanilla Social Interactions Expanded, Rimsenal - Augmented Vanilla Pack, Vanilla Traits Expanded, Vanilla Animals Expanded — Temperate Forest, Vanilla Factions Expanded - Vikings, Vanilla Books Expanded, Vanilla Factions Expanded - Medieval, Vanilla Furniture Expanded - Spacer Module, Vanilla Textures Expanded, Vanilla Hair Expanded, Vanilla Events Expanded, Vanilla Animals Expanded — Cats and Dogs, Vanilla Furniture Expanded - Art, Vanilla Fishing Expanded, Vanilla Furniture Expanded - Farming, Vanilla Apparel Expanded, Vanilla Armour Expanded, Vanilla Furniture Expanded - Production, Vanilla Furniture Expanded - Medical Module, Vanilla Furniture Expanded - Security, Vanilla Furniture Expanded, Alpha Animals, Vanilla Ideology Expanded - Memes and Structures, Gunplay, Dual Wield, Yayo's Animation, Yayo's Combat 3 [Adopted], More Components, Keep Bed Ownership, Mining Priority, Harvest Everything!, People Can Change, Callouts, Nurse Job, Quality Cooldown, [WD] Partially-Passable Wind Turbines, Toggle Harvest, War Crimes Expanded 2 Core, Simple Utilities: Ceiling, Perfect Pathfinding, [SYR] More Slaves, [KV] Adjustable Trade Ships, RimNauts, Dire Raids, MedPod, Large Faction Bases, Clean Pathfinding, Astra Militarum Imperial Guard Core Mod v2.3, Humanoid Alien Races, SRTS Expanded, Adeptus Mechanicus: Armoury, Real Faction Guest, Easy Speedup, Animals are fun, Quest Reward Rebalance, Advanced Power Plus, What's Missing?, Carry Capacity Fixed, Do Something for Idle, Almost There!, [FSF] Growable Grass, Concrete Walls, Pawn Rules, Bad Can Be Good, Un-Limited, Build From Inventory, Wall Vitals Monitor, In-wall coolers and vents, ProxyHeat, Use Bedrolls, Trader ships, Medical Training, Fahrenheit and Celsius, Reinforced Walls, Camping Tent, Won hair_men, Room Food, [KV] Path Avoid, No Sympathy for Prisoners, Conduit Deconstruct, No Lazy Doctors, More Harvest Designators!, [SS]Lovely Hair Style, More Sculpture, Range Finder, Therapy, Reasonable Components, Trade Ships Drop Spot, Mass Graves, Cybernetic Organism and Neural Network, PrisonerRansom, [KV] Consolidated Traits, Subsurface Conduit, Sometimes Raids Go Wrong, Haul to Stack, [NL] Facial Animation - WIP, Statue of Colonist, Vanilla Furniture Expanded - Power, More Linkables, Grazing Lands, RIMkea, Auto-Cut Blight, Mortar Accuracy, Children, school and learning, Tech Advancing, QualitySurgeon, Search and Destroy, Area Unlocker, Go Explore!, [KV] Faction Control, Repair Workbench, Just Ignore Me Passing, Call of Cthulhu - Cosmic Horrors, While You're Up / PUAH+, Beautiful Outdoors, Ugh You Got Me, Room Sense, MendAndRecycle, Where is my weapon?, Rimsenal - Rimhair, Dubs Rimatomics, Rimsenal - Core, Door Mat, Show Draftees Weapon, Smart Speed, Rimefeller, Prisoner Harvesting, Smart Medicine, Bionic icons, Misc. Robots, Pick Up And Haul, Replace Stuff, Colony Manager, QualityBuilder, Interaction Bubbles, Blueprints, Increased Stack, Tilled Soil, Simple sidearms, Defensive Positions, Work Tab, Camera+, Animal Tab, Share The Load, Misc. Training, Mad Skills, Stack XXL, Animals Logic, Doors Expanded, Map Reroll, [FSF] Filth Vanishes With Rain And Time, CM Color Coded Mood Bar [1.1+], Common Sense, Heat Map, Recipe icons, [KV] Show Hair With Hats or Hide All Hats, Quarry, Smarter Construction, Combat Update 1.3, [WD] Expanded Floors, Beautiful Bodies, More Steel, Bulk Smelting, [RF] Rational Romance (Continued), DragSelect, Go the F*** to Sleep, Temperature Control Unit, EdB Prepare Carefully, Wall Light, Expanded Prosthetics and Organ Engineering - Forked, Allow Tool, Medical Tab, Hospitality, Beast Man Tribes, Androids, [SR]Factional War, Live With The Pain, Nationalist Militarism, Plasma Weaponry (Continued), Ranged Shield Belt Tiers, Holsters, StarWars - 212th Airborne Trooper, Toggleable Readouts, Rimsenal Style Pack - Techist, Line Of Sight Fix, Performance Optimizer, Romance On The Rim, Premarital Sex, Cremate Auto Strip, Plasteel Surgery (Continued), [PS] Reconditioning Pod (Continued), I Clearly Have Enough! (Continued), Rejuvenate Surgery, Silent Doors (Continued), Quality Bionics, Nano Repair Tech, Taming Artifact, Metals Trader, [SYR] Neuter, Transport Cargo Pod, Less Stupid Romance Attempt (Continued), Share The Load, Simple Recycling, More Crashed Ship Parts, Plant Human, Power Tools, Babies and Children [1.3], Job Splitter, LightsOut, Apparel Tainted Only When Corpse Rots, [SYR] Bullet Casings, Rimlaser, Prisoner Recreation, Traders Have Money, [SYR] Prosthetic Table, Industrialisation, RT Power Switch, Chatting on Comms, Faster Smoothing, What Is My Purpose, ED-Shields, Higher Power, Windows, Do Your F****** Research, Dynamic Population, Set Owner for Prisoner Beds, Artillery Gun, Armor Racks, Faster Biosculpter Pod, Adeptus Xenobiologis: Orkoids, Adeptus Xenobiologis: Aeldari, Adeptus Xenobiologis: Tau, Kroot, Vespid, Heavy Duty Turrets, Z_More Pulse Turrets 更多脉冲炮塔, Z_High Performance Turrets 高性能炮台, Z_More Pulse Turrets+ 更多脉冲炮塔+, Smart Turret Covering, Tranquilizer Turret, Simple Turrets, Expanded Charge Weaponry, Milk The Boomalope Now, I Dare You, Rename Pawns, RenameColony, Utility Columns, [1.3] Nukes, Armored Leotards, Electric Butcher Table, Respect the Scars, Repair Items, Tranquilizer Gun, Net Gun, CaravanOptions, Better Multi-Analyzers, Electric Art Bench and Powered floor panel mod</mods>
+	<pawns>
+		<li>
+			<id>ac401e0f-f02f-480f-b6a9-1f9dee3838ed</id>
+			<type>World</type>
+			<faction IsNull="True" />
+			<pawnKindDef>Colonist</pawnKindDef>
+			<originalFactionDef>PlayerColony</originalFactionDef>
+			<gender>Female</gender>
+			<childhood>ApocalypseSurvivor23</childhood>
+			<adulthood>Policeman45</adulthood>
+			<traits>
+				<li>
+					<def>VTE_Menagerist</def>
+				</li>
+				<li>
+					<def>VTE_Coward</def>
+				</li>
+				<li>
+					<def>NaturalMood</def>
+					<degree>-2</degree>
+				</li>
+				<li>
+					<def>Bisexual</def>
+				</li>
+			</traits>
+			<traitNames />
+			<traitDegrees />
+			<skinColor>RGBA(0.452, 0.318, 0.166, 1.000)</skinColor>
+			<melanin>0.9091893</melanin>
+			<bodyType>Female</bodyType>
+			<headGraphicPath>Things/Pawn/Humanlike/Heads/Female_Average_Pointy</headGraphicPath>
+			<hairDef>VHE_Buzzcut</hairDef>
+			<hairColor>RGBA(0.200, 0.200, 0.200, 1.000)</hairColor>
+			<beard>NoBeard</beard>
+			<faceTattoo>NoTattoo_Face</faceTattoo>
+			<bodyTattoo>NoTattoo_Body</bodyTattoo>
+			<hairDef>VHE_Buzzcut</hairDef>
+			<firstName>Vaskyak</firstName>
+			<nickName>Gruhnda Drogen-Yenn</nickName>
+			<lastName>Gruhnda Drogen-Yenn</lastName>
+			<favoriteColor>RGBA(0.263, 0.388, 0.580, 1.000)</favoriteColor>
+			<biologicalAge>40</biologicalAge>
+			<chronologicalAge>51</chronologicalAge>
+			<skills>
+				<li>
+					<name>Shooting</name>
+					<value>4</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Melee</name>
+					<value>5</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Construction</name>
+					<value>2</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Mining</name>
+					<value>4</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Cooking</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Plants</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Animals</name>
+					<value>1</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Crafting</name>
+					<value>3</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Artistic</name>
+					<value>2</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Medicine</name>
+					<value>3</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Social</name>
+					<value>2</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Intellectual</name>
+					<value>3</value>
+					<passion>None</passion>
+				</li>
+			</skills>
+			<apparel>
+				<li>
+					<layer>BottomClothingLayer</layer>
+					<apparel>Apparel_Pants</apparel>
+					<stuff>Synthread</stuff>
+					<color>RGBA(0.682, 0.859, 0.894, 1.000)</color>
+				</li>
+			</apparel>
+			<ideo>
+				<name>This is Mine</name>
+				<certainty>0.8547508</certainty>
+				<culture>OG_Imperial_Militarum_Spacer</culture>
+				<memes>
+					<li>OG_Imperial_Structure_TheistEmbodied</li>
+					<li>Supremacist</li>
+				</memes>
+			</ideo>
+			<abilities />
+			<implants>
+				<li>
+					<bodyPart>Foot</bodyPart>
+					<recipe>InstallFSFProstheticFoot</recipe>
+				</li>
+			</implants>
+			<injuries />
+			<compFields>
+				<crownType>Average_Pointy</crownType>
+				<addonVariants />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.200, 0.200, 0.200, 1.000)</first>
+							<second>RGBA(0.200, 0.200, 0.200, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.452, 0.318, 0.166, 1.000)</first>
+							<second>RGBA(0.452, 0.318, 0.166, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.499, 0.349, 0.184, 0.800)</first>
+							<second>RGBA(0.499, 0.349, 0.184, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>skin</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+			</compFields>
+			<savedComps>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			</savedComps>
+		</li>
+		<li>
+			<id>875f9e89-df5a-4ba2-95c7-177096bc9685</id>
+			<type>World</type>
+			<faction IsNull="True" />
+			<pawnKindDef>Colonist</pawnKindDef>
+			<originalFactionDef>PlayerColony</originalFactionDef>
+			<gender>Female</gender>
+			<childhood>MedicalAssistant12</childhood>
+			<adulthood>CharityWorker36</adulthood>
+			<traits>
+				<li>
+					<def>DrugDesire</def>
+					<degree>2</degree>
+				</li>
+				<li>
+					<def>VTE_HeavySleeper</def>
+				</li>
+				<li>
+					<def>Straight</def>
+				</li>
+			</traits>
+			<traitNames />
+			<traitDegrees />
+			<skinColor>RGBA(1.000, 0.937, 0.774, 1.000)</skinColor>
+			<melanin>0.1026031</melanin>
+			<bodyType>Thin</bodyType>
+			<headGraphicPath>Things/Pawn/Humanlike/Heads/Female_Narrow_Pointy</headGraphicPath>
+			<hairDef>Kelsa</hairDef>
+			<hairColor>RGBA(0.200, 0.200, 0.200, 1.000)</hairColor>
+			<beard>NoBeard</beard>
+			<faceTattoo>NoTattoo_Face</faceTattoo>
+			<bodyTattoo>NoTattoo_Body</bodyTattoo>
+			<hairDef>Kelsa</hairDef>
+			<firstName>Stant</firstName>
+			<nickName>Penni Chamne</nickName>
+			<lastName>Penni Chamne</lastName>
+			<favoriteColor>RGBA(0.337, 0.502, 0.749, 1.000)</favoriteColor>
+			<biologicalAge>31</biologicalAge>
+			<chronologicalAge>130</chronologicalAge>
+			<skills>
+				<li>
+					<name>Shooting</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Melee</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Construction</name>
+					<value>4</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Mining</name>
+					<value>3</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Cooking</name>
+					<value>3</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Plants</name>
+					<value>4</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Animals</name>
+					<value>3</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Crafting</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Artistic</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Medicine</name>
+					<value>3</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Social</name>
+					<value>5</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Intellectual</name>
+					<value>3</value>
+					<passion>None</passion>
+				</li>
+			</skills>
+			<apparel>
+				<li>
+					<layer>BottomClothingLayer</layer>
+					<apparel>VAE_Apparel_FleeceShirt</apparel>
+					<stuff>Synthread</stuff>
+					<color>RGBA(0.682, 0.859, 0.894, 1.000)</color>
+				</li>
+			</apparel>
+			<ideo>
+				<name>This is Mine</name>
+				<certainty>0.8155015</certainty>
+				<culture>OG_Imperial_Militarum_Spacer</culture>
+				<memes>
+					<li>OG_Imperial_Structure_TheistEmbodied</li>
+					<li>Supremacist</li>
+				</memes>
+			</ideo>
+			<abilities />
+			<implants />
+			<injuries />
+			<compFields>
+				<crownType>Narrow_Pointy</crownType>
+				<addonVariants />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.200, 0.200, 0.200, 1.000)</first>
+							<second>RGBA(0.200, 0.200, 0.200, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.774, 1.000)</first>
+							<second>RGBA(1.000, 0.937, 0.774, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.970, 0.933, 0.861, 0.800)</first>
+							<second>RGBA(0.970, 0.933, 0.861, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>skin</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+			</compFields>
+			<savedComps>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			</savedComps>
+		</li>
+		<li>
+			<id>a9a37bc8-11f0-4d99-b5b2-690cad1aeeef</id>
+			<type>World</type>
+			<faction IsNull="True" />
+			<pawnKindDef>Colonist</pawnKindDef>
+			<originalFactionDef>PlayerColony</originalFactionDef>
+			<gender>Female</gender>
+			<childhood>Mute34</childhood>
+			<adulthood>MachineCollector55</adulthood>
+			<traits>
+				<li>
+					<def>VTE_IronStomach</def>
+				</li>
+				<li>
+					<def>VTE_ChildOfMountain</def>
+				</li>
+				<li>
+					<def>SlowLearner</def>
+				</li>
+				<li>
+					<def>Bisexual</def>
+				</li>
+			</traits>
+			<traitNames />
+			<traitDegrees />
+			<skinColor>RGBA(0.954, 0.930, 0.874, 1.000)</skinColor>
+			<melanin>0.3682801</melanin>
+			<bodyType>Thin</bodyType>
+			<headGraphicPath>Things/Pawn/Humanlike/Heads/Female_Narrow_Normal</headGraphicPath>
+			<hairDef>RBraid</hairDef>
+			<hairColor>RGBA(0.929, 0.792, 0.612, 1.000)</hairColor>
+			<beard>NoBeard</beard>
+			<faceTattoo>NoTattoo_Face</faceTattoo>
+			<bodyTattoo>NoTattoo_Body</bodyTattoo>
+			<hairDef>RBraid</hairDef>
+			<firstName>Berza</firstName>
+			<nickName>Malexar</nickName>
+			<lastName>Malexar</lastName>
+			<favoriteColor>RGBA(0.961, 0.961, 0.961, 1.000)</favoriteColor>
+			<biologicalAge>15</biologicalAge>
+			<chronologicalAge>981</chronologicalAge>
+			<skills>
+				<li>
+					<name>Shooting</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Melee</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Construction</name>
+					<value>2</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Mining</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Cooking</name>
+					<value>2</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Plants</name>
+					<value>4</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Animals</name>
+					<value>2</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Crafting</name>
+					<value>2</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Artistic</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Medicine</name>
+					<value>2</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Social</name>
+					<value>2</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Intellectual</name>
+					<value>2</value>
+					<passion>None</passion>
+				</li>
+			</skills>
+			<apparel>
+				<li>
+					<layer>BottomClothingLayer</layer>
+					<apparel>Apparel_Pants</apparel>
+					<stuff>Synthread</stuff>
+					<color>RGBA(0.682, 0.859, 0.894, 1.000)</color>
+				</li>
+			</apparel>
+			<ideo>
+				<name>This is Mine</name>
+				<certainty>0.7784559</certainty>
+				<culture>OG_Imperial_Militarum_Spacer</culture>
+				<memes>
+					<li>OG_Imperial_Structure_TheistEmbodied</li>
+					<li>Supremacist</li>
+				</memes>
+			</ideo>
+			<abilities />
+			<implants />
+			<injuries />
+			<compFields>
+				<crownType>Narrow_Normal</crownType>
+				<addonVariants />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.929, 0.792, 0.612, 1.000)</first>
+							<second>RGBA(0.929, 0.792, 0.612, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.954, 0.930, 0.874, 1.000)</first>
+							<second>RGBA(0.954, 0.930, 0.874, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.791, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.791, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>skin</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+			</compFields>
+			<savedComps>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			</savedComps>
+		</li>
+		<li>
+			<id>4cc62b34-114f-4e39-9058-53f311ffef64</id>
+			<type>World</type>
+			<faction IsNull="True" />
+			<pawnKindDef>Colonist</pawnKindDef>
+			<originalFactionDef>PlayerColony</originalFactionDef>
+			<gender>Female</gender>
+			<childhood>OrganFarm67</childhood>
+			<adulthood>MasterTrader65</adulthood>
+			<traits>
+				<li>
+					<def>Neurotic</def>
+					<degree>1</degree>
+				</li>
+				<li>
+					<def>DrugDesire</def>
+					<degree>2</degree>
+				</li>
+				<li>
+					<def>Tough</def>
+				</li>
+				<li>
+					<def>Gay</def>
+				</li>
+			</traits>
+			<traitNames />
+			<traitDegrees />
+			<skinColor>RGBA(0.965, 0.932, 0.865, 1.000)</skinColor>
+			<melanin>0.9916369</melanin>
+			<bodyType>Thin</bodyType>
+			<headGraphicPath>Things/Pawn/Humanlike/Heads/Female_Narrow_Wide</headGraphicPath>
+			<hairDef>VHE_Sad</hairDef>
+			<hairColor>RGBA(0.200, 0.200, 0.200, 1.000)</hairColor>
+			<beard>NoBeard</beard>
+			<faceTattoo>NoTattoo_Face</faceTattoo>
+			<bodyTattoo>NoTattoo_Body</bodyTattoo>
+			<hairDef>VHE_Sad</hairDef>
+			<firstName>Kub</firstName>
+			<nickName>Kub</nickName>
+			<lastName>Patsy Qvaile</lastName>
+			<favoriteColor>RGBA(1.000, 0.451, 0.780, 1.000)</favoriteColor>
+			<biologicalAge>16</biologicalAge>
+			<chronologicalAge>58</chronologicalAge>
+			<skills>
+				<li>
+					<name>Shooting</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Melee</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Construction</name>
+					<value>4</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Mining</name>
+					<value>2</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Cooking</name>
+					<value>4</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Plants</name>
+					<value>4</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Animals</name>
+					<value>4</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Crafting</name>
+					<value>2</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Artistic</name>
+					<value>2</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Medicine</name>
+					<value>4</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Social</name>
+					<value>3</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Intellectual</name>
+					<value>2</value>
+					<passion>None</passion>
+				</li>
+			</skills>
+			<apparel>
+				<li>
+					<layer>BottomClothingLayer</layer>
+					<apparel>Apparel_Pants</apparel>
+					<stuff>Synthread</stuff>
+					<color>RGBA(0.682, 0.859, 0.894, 1.000)</color>
+				</li>
+			</apparel>
+			<ideo>
+				<name>This is Mine</name>
+				<certainty>0.9497718</certainty>
+				<culture>OG_Imperial_Militarum_Spacer</culture>
+				<memes>
+					<li>OG_Imperial_Structure_TheistEmbodied</li>
+					<li>Supremacist</li>
+				</memes>
+			</ideo>
+			<abilities />
+			<implants />
+			<injuries />
+			<compFields>
+				<crownType>Narrow_Wide</crownType>
+				<addonVariants />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.200, 0.200, 0.200, 1.000)</first>
+							<second>RGBA(0.200, 0.200, 0.200, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.965, 0.932, 0.865, 1.000)</first>
+							<second>RGBA(0.965, 0.932, 0.865, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.398, 0.281, 0.145, 0.800)</first>
+							<second>RGBA(0.398, 0.281, 0.145, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>skin</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+			</compFields>
+			<savedComps>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			</savedComps>
+		</li>
+		<li>
+			<id>68aeabd6-8d16-4ae9-bde2-52bbe701a719</id>
+			<type>World</type>
+			<faction IsNull="True" />
+			<pawnKindDef>Colonist</pawnKindDef>
+			<originalFactionDef>PlayerColony</originalFactionDef>
+			<childhood>CaveworldTender26</childhood>
+			<adulthood>MedievalSailor97</adulthood>
+			<traits>
+				<li>
+					<def>Undergrounder</def>
+				</li>
+				<li>
+					<def>VTE_ThinSkinned</def>
+				</li>
+				<li>
+					<def>Bisexual</def>
+				</li>
+			</traits>
+			<traitNames />
+			<traitDegrees />
+			<skinColor>RGBA(0.977, 0.934, 0.855, 1.000)</skinColor>
+			<melanin>0.3801906</melanin>
+			<bodyType>Male</bodyType>
+			<headGraphicPath>Things/Pawn/Humanlike/Heads/Male_Average_Normal</headGraphicPath>
+			<hairDef>VHE_Strongman</hairDef>
+			<hairColor>RGBA(0.250, 0.200, 0.150, 1.000)</hairColor>
+			<beard>Goatee</beard>
+			<faceTattoo>NoTattoo_Face</faceTattoo>
+			<bodyTattoo>NoTattoo_Body</bodyTattoo>
+			<hairDef>VHE_Strongman</hairDef>
+			<firstName>Gerhart</firstName>
+			<nickName>Gerhart</nickName>
+			<lastName>Salinas</lastName>
+			<favoriteColor>RGBA(0.263, 0.388, 0.580, 1.000)</favoriteColor>
+			<biologicalAge>27</biologicalAge>
+			<chronologicalAge>454</chronologicalAge>
+			<skills>
+				<li>
+					<name>Shooting</name>
+					<value>3</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Melee</name>
+					<value>3</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Construction</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Mining</name>
+					<value>-2</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Cooking</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Plants</name>
+					<value>-4</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Animals</name>
+					<value>4</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Crafting</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Artistic</name>
+					<value>2</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Medicine</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Social</name>
+					<value>4</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Intellectual</name>
+					<value>2</value>
+					<passion>None</passion>
+				</li>
+			</skills>
+			<apparel>
+				<li>
+					<layer>BottomClothingLayer</layer>
+					<apparel>Apparel_BasicShirt</apparel>
+					<stuff>Synthread</stuff>
+					<color>RGBA(0.682, 0.859, 0.894, 1.000)</color>
+				</li>
+				<li>
+					<layer>MiddleClothingLayer</layer>
+					<apparel>VAE_Apparel_Apron</apparel>
+					<stuff>Synthread</stuff>
+					<color>RGBA(0.682, 0.859, 0.894, 1.000)</color>
+				</li>
+			</apparel>
+			<ideo>
+				<name>This is Mine</name>
+				<certainty>0.9401696</certainty>
+				<culture>OG_Imperial_Militarum_Spacer</culture>
+				<memes>
+					<li>OG_Imperial_Structure_TheistEmbodied</li>
+					<li>Supremacist</li>
+				</memes>
+			</ideo>
+			<abilities />
+			<implants />
+			<injuries>
+				<li>
+					<hediffDef>VTE_HigherBleedingRate</hediffDef>
+					<severity>0.5</severity>
+				</li>
+			</injuries>
+			<compFields>
+				<crownType>Average_Normal</crownType>
+				<addonVariants />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.250, 0.200, 0.150, 1.000)</first>
+							<second>RGBA(0.250, 0.200, 0.150, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.977, 0.934, 0.855, 1.000)</first>
+							<second>RGBA(0.977, 0.934, 0.855, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.786, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.786, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>skin</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+			</compFields>
+			<savedComps>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			</savedComps>
+		</li>
+		<li>
+			<id>f31b55a1-c8d6-4c73-93a4-ff76c79b99b5</id>
+			<type>World</type>
+			<faction IsNull="True" />
+			<pawnKindDef>Colonist</pawnKindDef>
+			<originalFactionDef>PlayerColony</originalFactionDef>
+			<childhood>ChildSpy47</childhood>
+			<adulthood>Ranger96</adulthood>
+			<traits>
+				<li>
+					<def>RCT_Claustrophobic</def>
+				</li>
+				<li>
+					<def>VTE_ThickSkinned</def>
+				</li>
+				<li>
+					<def>Bisexual</def>
+				</li>
+			</traits>
+			<traitNames />
+			<traitDegrees />
+			<skinColor>RGBA(0.390, 0.275, 0.142, 1.000)</skinColor>
+			<melanin>0.3311674</melanin>
+			<bodyType>Male</bodyType>
+			<headGraphicPath>Things/Pawn/Humanlike/Heads/Male_Average_Wide</headGraphicPath>
+			<hairDef>Rockstar</hairDef>
+			<hairColor>RGBA(0.310, 0.280, 0.260, 1.000)</hairColor>
+			<beard>Wizard</beard>
+			<faceTattoo>NoTattoo_Face</faceTattoo>
+			<bodyTattoo>NoTattoo_Body</bodyTattoo>
+			<hairDef>Rockstar</hairDef>
+			<firstName>Lythe</firstName>
+			<nickName>Calispilly</nickName>
+			<lastName>Calispilly</lastName>
+			<favoriteColor>RGBA(0.757, 0.573, 0.333, 1.000)</favoriteColor>
+			<biologicalAge>47</biologicalAge>
+			<chronologicalAge>77</chronologicalAge>
+			<skills>
+				<li>
+					<name>Shooting</name>
+					<value>5</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Melee</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Construction</name>
+					<value>5</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Mining</name>
+					<value>4</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Cooking</name>
+					<value>5</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Plants</name>
+					<value>3</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Animals</name>
+					<value>3</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Crafting</name>
+					<value>4</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Artistic</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Medicine</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Social</name>
+					<value>3</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Intellectual</name>
+					<value>2</value>
+					<passion>None</passion>
+				</li>
+			</skills>
+			<apparel>
+				<li>
+					<layer>BottomClothingLayer</layer>
+					<apparel>VAE_Apparel_MilitaryUniform</apparel>
+					<stuff>Synthread</stuff>
+					<color>RGBA(0.682, 0.859, 0.894, 1.000)</color>
+				</li>
+				<li>
+					<layer>Hat</layer>
+					<apparel>VAE_Headgear_Scarf</apparel>
+					<stuff>Synthread</stuff>
+					<color>RGBA(0.682, 0.859, 0.894, 1.000)</color>
+				</li>
+			</apparel>
+			<ideo>
+				<name>This is Mine</name>
+				<certainty>0.6213349</certainty>
+				<culture>OG_Imperial_Militarum_Spacer</culture>
+				<memes>
+					<li>OG_Imperial_Structure_TheistEmbodied</li>
+					<li>Supremacist</li>
+				</memes>
+			</ideo>
+			<abilities />
+			<implants />
+			<injuries>
+				<li>
+					<hediffDef>VTE_SlowerBleedingRate</hediffDef>
+					<severity>0.5</severity>
+				</li>
+			</injuries>
+			<compFields>
+				<crownType>Average_Wide</crownType>
+				<addonVariants />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.310, 0.280, 0.260, 1.000)</first>
+							<second>RGBA(0.310, 0.280, 0.260, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.390, 0.275, 0.142, 1.000)</first>
+							<second>RGBA(0.390, 0.275, 0.142, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.805, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.805, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>skin</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+			</compFields>
+			<savedComps>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			</savedComps>
+		</li>
+		<li>
+			<id>625c6dec-9150-46c6-a504-b29aae48cd4b</id>
+			<type>Colonist</type>
+			<faction IsNull="True" />
+			<pawnKindDef>Colonist</pawnKindDef>
+			<originalFactionDef>PlayerColony</originalFactionDef>
+			<childhood>ChildSpy47</childhood>
+			<adulthood>SpaceMarine51</adulthood>
+			<traits>
+				<li>
+					<def>Straight</def>
+				</li>
+				<li>
+					<def>ShootingAccuracy</def>
+					<degree>2</degree>
+				</li>
+				<li>
+					<def>IG_TraitAstarte</def>
+				</li>
+				<li>
+					<def>Beauty</def>
+					<degree>2</degree>
+				</li>
+			</traits>
+			<traitNames />
+			<traitDegrees />
+			<skinColor>RGBA(1.000, 0.937, 0.746, 1.000)</skinColor>
+			<melanin>0.4882279</melanin>
+			<bodyType>Hulk</bodyType>
+			<headGraphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Average_Normal</headGraphicPath>
+			<hairDef>VHE_Wilderness</hairDef>
+			<hairColor>RGBA(0.250, 0.200, 0.150, 1.000)</hairColor>
+			<beard>Stubble</beard>
+			<faceTattoo>NoTattoo_Face</faceTattoo>
+			<bodyTattoo>NoTattoo_Body</bodyTattoo>
+			<hairDef>VHE_Wilderness</hairDef>
+			<firstName>Jack</firstName>
+			<nickName>Jack</nickName>
+			<lastName>Little</lastName>
+			<favoriteColor>RGBA(0.500, 0.122, 0.027, 1.000)</favoriteColor>
+			<biologicalAge>30</biologicalAge>
+			<chronologicalAge>30</chronologicalAge>
+			<skills>
+				<li>
+					<name>Shooting</name>
+					<value>11</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Melee</name>
+					<value>12</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Construction</name>
+					<value>3</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Mining</name>
+					<value>14</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Cooking</name>
+					<value>5</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Plants</name>
+					<value>3</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Animals</name>
+					<value>3</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Crafting</name>
+					<value>2</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Artistic</name>
+					<value>2</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Medicine</name>
+					<value>2</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Social</name>
+					<value>12</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Intellectual</name>
+					<value>4</value>
+					<passion>None</passion>
+				</li>
+			</skills>
+			<apparel>
+				<li>
+					<layer>BottomClothingLayer</layer>
+					<apparel>OGIG_Apparel_UniformShirt</apparel>
+					<stuff>Synthread</stuff>
+					<color>RGBA(0.000, 0.073, 0.121, 1.000)</color>
+				</li>
+				<li>
+					<layer>TopClothingLayer</layer>
+					<apparel>IGStd-FlakPlate</apparel>
+					<color>RGBA(0.790, 0.056, 0.000, 1.000)</color>
+				</li>
+			</apparel>
+			<ideo>
+				<name>This is Mine</name>
+				<certainty>1</certainty>
+				<culture>OG_Imperial_Militarum_Spacer</culture>
+				<memes>
+					<li>OG_Imperial_Structure_TheistEmbodied</li>
+					<li>Supremacist</li>
+				</memes>
+			</ideo>
+			<abilities />
+			<implants>
+				<li>
+					<bodyPart>Eye</bodyPart>
+					<recipe>InstallBionicEye</recipe>
+				</li>
+			</implants>
+			<injuries />
+			<compFields>
+				<crownType>Average_Normal</crownType>
+				<addonVariants />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.250, 0.200, 0.150, 1.000)</first>
+							<second>RGBA(0.250, 0.200, 0.150, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.746, 1.000)</first>
+							<second>RGBA(1.000, 0.937, 0.746, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.798, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.798, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>skin</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+			</compFields>
+			<savedComps>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			</savedComps>
+		</li>
+		<li>
+			<id>b2f72ff3-dd5e-44a1-87e5-53d2bd322b17</id>
+			<type>World</type>
+			<faction IsNull="True" />
+			<pawnKindDef>Colonist</pawnKindDef>
+			<originalFactionDef>PlayerColony</originalFactionDef>
+			<childhood>OrganFarm67</childhood>
+			<adulthood>HumanComputer83</adulthood>
+			<traits>
+				<li>
+					<def>TooSmart</def>
+				</li>
+				<li>
+					<def>Kind</def>
+				</li>
+				<li>
+					<def>Gay</def>
+				</li>
+			</traits>
+			<traitNames />
+			<traitDegrees />
+			<skinColor>RGBA(0.996, 0.937, 0.839, 1.000)</skinColor>
+			<melanin>0.2308727</melanin>
+			<bodyType>Male</bodyType>
+			<headGraphicPath>Things/Pawn/Humanlike/Heads/Male_Narrow_Pointy</headGraphicPath>
+			<hairDef>VHE_Gangster</hairDef>
+			<hairColor>RGBA(0.310, 0.280, 0.260, 1.000)</hairColor>
+			<beard>Anchor</beard>
+			<faceTattoo>NoTattoo_Face</faceTattoo>
+			<bodyTattoo>NoTattoo_Body</bodyTattoo>
+			<hairDef>VHE_Gangster</hairDef>
+			<firstName>Arnult</firstName>
+			<nickName>Doris</nickName>
+			<lastName>Doris</lastName>
+			<favoriteColor>RGBA(0.518, 0.325, 0.184, 1.000)</favoriteColor>
+			<biologicalAge>34</biologicalAge>
+			<chronologicalAge>54</chronologicalAge>
+			<skills>
+				<li>
+					<name>Shooting</name>
+					<value>-3</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Melee</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Construction</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Mining</name>
+					<value>5</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Cooking</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Plants</name>
+					<value>4</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Animals</name>
+					<value>2</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Crafting</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Artistic</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Medicine</name>
+					<value>5</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Social</name>
+					<value>2</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Intellectual</name>
+					<value>5</value>
+					<passion>Major</passion>
+				</li>
+			</skills>
+			<apparel>
+				<li>
+					<layer>BottomClothingLayer</layer>
+					<apparel>VAE_Apparel_Jeans</apparel>
+					<stuff>Synthread</stuff>
+					<color>RGBA(0.682, 0.859, 0.894, 1.000)</color>
+				</li>
+			</apparel>
+			<ideo>
+				<name>This is Mine</name>
+				<certainty>0.6795443</certainty>
+				<culture>OG_Imperial_Militarum_Spacer</culture>
+				<memes>
+					<li>OG_Imperial_Structure_TheistEmbodied</li>
+					<li>Supremacist</li>
+				</memes>
+			</ideo>
+			<abilities />
+			<implants />
+			<injuries />
+			<compFields>
+				<crownType>Narrow_Normal</crownType>
+				<addonVariants />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.757, 0.573, 0.333, 1.000)</first>
+							<second>RGBA(0.757, 0.573, 0.333, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.996, 0.937, 0.839, 1.000)</first>
+							<second>RGBA(0.996, 0.937, 0.839, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.786, 0.546, 0.307, 0.800)</first>
+							<second>RGBA(0.786, 0.546, 0.307, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>skin</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+			</compFields>
+			<savedComps>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			</savedComps>
+		</li>
+		<li>
+			<id>079a06e1-3b5d-4cb4-94e2-0578a22ca710</id>
+			<type>Colonist</type>
+			<faction IsNull="True" />
+			<pawnKindDef>Colonist</pawnKindDef>
+			<originalFactionDef>PlayerColony</originalFactionDef>
+			<childhood>OptimisticChild30</childhood>
+			<adulthood>Builder96</adulthood>
+			<traits>
+				<li>
+					<def>PS_Trait_BotchedConditioning</def>
+					<degree>1</degree>
+				</li>
+				<li>
+					<def>Straight</def>
+				</li>
+				<li>
+					<def>SpeedOffset</def>
+					<degree>2</degree>
+				</li>
+				<li>
+					<def>Undergrounder</def>
+				</li>
+			</traits>
+			<traitNames />
+			<traitDegrees />
+			<skinColor>RGBA(1.000, 0.937, 0.741, 1.000)</skinColor>
+			<melanin>0.5</melanin>
+			<bodyType>Male</bodyType>
+			<headGraphicPath>Things/Pawn/Humanlike/Heads/Male/Male_Average_Normal</headGraphicPath>
+			<hairDef>ClassyM</hairDef>
+			<hairColor>RGBA(0.200, 0.200, 0.200, 1.000)</hairColor>
+			<beard>MuttonChops</beard>
+			<faceTattoo>NoTattoo_Face</faceTattoo>
+			<bodyTattoo>NoTattoo_Body</bodyTattoo>
+			<hairDef>ClassyM</hairDef>
+			<firstName>Handy</firstName>
+			<nickName>Brick</nickName>
+			<lastName>Happyman</lastName>
+			<favoriteColor>RGBA(0.501, 0.337, 0.928, 1.000)</favoriteColor>
+			<biologicalAge>36</biologicalAge>
+			<chronologicalAge>36</chronologicalAge>
+			<skills>
+				<li>
+					<name>Shooting</name>
+					<value>4</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Melee</name>
+					<value>6</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Construction</name>
+					<value>9</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Mining</name>
+					<value>12</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Cooking</name>
+					<value>8</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Plants</name>
+					<value>10</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Animals</name>
+					<value>10</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Crafting</name>
+					<value>3</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Artistic</name>
+					<value>2</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Medicine</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Social</name>
+					<value>6</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Intellectual</name>
+					<value>4</value>
+					<passion>None</passion>
+				</li>
+			</skills>
+			<apparel>
+				<li>
+					<layer>BottomClothingLayer</layer>
+					<apparel>VAE_Apparel_MilitaryUniform</apparel>
+					<stuff>Synthread</stuff>
+					<color>RGBA(0.081, 0.226, 0.444, 1.000)</color>
+				</li>
+				<li>
+					<layer>MiddleClothingLayer</layer>
+					<apparel>VAE_Apparel_Apron</apparel>
+					<stuff>Synthread</stuff>
+					<color>RGBA(0.500, 0.710, 1.000, 1.000)</color>
+				</li>
+			</apparel>
+			<ideo>
+				<name>This is Mine</name>
+				<certainty>1</certainty>
+				<culture>OG_Imperial_Militarum_Spacer</culture>
+				<memes>
+					<li>OG_Imperial_Structure_TheistEmbodied</li>
+					<li>Supremacist</li>
+				</memes>
+			</ideo>
+			<abilities />
+			<implants>
+				<li>
+					<bodyPart>Spine</bodyPart>
+					<recipe>InstallAdvancedBionicSpine</recipe>
+				</li>
+			</implants>
+			<injuries />
+			<compFields>
+				<crownType>Average_Normal</crownType>
+				<addonVariants />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.200, 0.200, 0.200, 1.000)</first>
+							<second>RGBA(0.310, 0.280, 0.260, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.741, 1.000)</first>
+							<second>RGBA(1.000, 0.937, 0.741, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.956, 0.931, 0.872, 0.800)</first>
+							<second>RGBA(0.956, 0.931, 0.872, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>skin</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+			</compFields>
+			<savedComps>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			</savedComps>
+		</li>
+		<li>
+			<id>1fc41a63-f7d6-44bd-a39a-d7bc95502a0d</id>
+			<type>Colonist</type>
+			<faction IsNull="True" />
+			<pawnKindDef>Colonist</pawnKindDef>
+			<originalFactionDef>PlayerColony</originalFactionDef>
+			<gender>Female</gender>
+			<childhood>ChJAndroid_Child_Biosphere</childhood>
+			<adulthood>ChJAndroid_Adult_Medical</adulthood>
+			<traits>
+				<li>
+					<def>SpeedOffset</def>
+					<degree>2</degree>
+				</li>
+				<li>
+					<def>RCT_Inventor</def>
+				</li>
+				<li>
+					<def>VTE_MadSurgeon</def>
+				</li>
+				<li>
+					<def>Straight</def>
+				</li>
+				<li>
+					<def>Beauty</def>
+					<degree>1</degree>
+				</li>
+			</traits>
+			<traitNames />
+			<traitDegrees />
+			<skinColor>RGBA(1.000, 0.937, 0.822, 1.000)</skinColor>
+			<melanin>0.3875093</melanin>
+			<bodyType>Female</bodyType>
+			<headGraphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Average_Normal</headGraphicPath>
+			<hairDef>Flowy</hairDef>
+			<hairColor>RGBA(0.847, 0.669, 0.355, 1.000)</hairColor>
+			<beard>NoBeard</beard>
+			<faceTattoo>NoTattoo_Face</faceTattoo>
+			<bodyTattoo>NoTattoo_Body</bodyTattoo>
+			<hairDef>Flowy</hairDef>
+			<firstName>Summer</firstName>
+			<nickName>Baby</nickName>
+			<lastName>Solstice</lastName>
+			<favoriteColor>RGBA(1.000, 0.878, 0.405, 1.000)</favoriteColor>
+			<biologicalAge>24</biologicalAge>
+			<chronologicalAge>28</chronologicalAge>
+			<skills>
+				<li>
+					<name>Shooting</name>
+					<value>4</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Melee</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Construction</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Mining</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Cooking</name>
+					<value>3</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Plants</name>
+					<value>2</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Animals</name>
+					<value>8</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Crafting</name>
+					<value>4</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Artistic</name>
+					<value>11</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Medicine</name>
+					<value>10</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Social</name>
+					<value>6</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Intellectual</name>
+					<value>10</value>
+					<passion>Major</passion>
+				</li>
+			</skills>
+			<apparel>
+				<li>
+					<layer>BottomClothingLayer</layer>
+					<apparel>VAE_Apparel_DoctorScrubs</apparel>
+				</li>
+				<li>
+					<layer>TopClothingLayer</layer>
+					<apparel>Apparel_RobeRoyal</apparel>
+					<stuff>Synthread</stuff>
+					<color>RGBA(1.000, 0.815, 0.548, 1.000)</color>
+				</li>
+			</apparel>
+			<ideo>
+				<name>This is Mine</name>
+				<certainty>1</certainty>
+				<culture>OG_Imperial_Militarum_Spacer</culture>
+				<memes>
+					<li>OG_Imperial_Structure_TheistEmbodied</li>
+					<li>Supremacist</li>
+				</memes>
+			</ideo>
+			<abilities />
+			<implants>
+				<li>
+					<bodyPart>Hand</bodyPart>
+					<recipe>InstallAdvancedBionicHand</recipe>
+				</li>
+			</implants>
+			<injuries />
+			<compFields>
+				<crownType>Average_Normal</crownType>
+				<addonVariants />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.847, 0.669, 0.355, 1.000)</first>
+							<second>RGBA(0.805, 0.805, 0.805, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.822, 1.000)</first>
+							<second>RGBA(1.000, 0.937, 0.822, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.784, 0.800)</first>
+							<second>RGBA(1.000, 0.937, 0.784, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>skin</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+			</compFields>
+			<savedComps>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			</savedComps>
+		</li>
+		<li>
+			<id>ce2f3d0f-fcad-4089-87b9-8fe2a3b8a044</id>
+			<type>Temporary</type>
+			<faction IsNull="True" />
+			<pawnKindDef>Colonist</pawnKindDef>
+			<originalFactionDef>PlayerColony</originalFactionDef>
+			<gender>Female</gender>
+			<childhood>MedievalSlave49</childhood>
+			<adulthood>Defector78</adulthood>
+			<traits>
+				<li>
+					<def>NightOwl</def>
+				</li>
+				<li>
+					<def>PsychicSensitivity</def>
+					<degree>-1</degree>
+				</li>
+				<li>
+					<def>Bisexual</def>
+				</li>
+			</traits>
+			<traitNames />
+			<traitDegrees />
+			<skinColor>RGBA(0.685, 0.477, 0.263, 1.000)</skinColor>
+			<melanin>0.8735859</melanin>
+			<bodyType>Female</bodyType>
+			<headGraphicPath>Things/Pawn/Humanlike/Heads/Female_Narrow_Pointy</headGraphicPath>
+			<hairDef>BunchesRS</hairDef>
+			<hairColor>RGBA(0.250, 0.200, 0.150, 1.000)</hairColor>
+			<beard>NoBeard</beard>
+			<faceTattoo>NoTattoo_Face</faceTattoo>
+			<bodyTattoo>NoTattoo_Body</bodyTattoo>
+			<hairDef>BunchesRS</hairDef>
+			<firstName>March</firstName>
+			<nickName>March</nickName>
+			<lastName>Hylda Quut</lastName>
+			<favoriteColor>RGBA(0.929, 0.792, 0.612, 1.000)</favoriteColor>
+			<biologicalAge>57</biologicalAge>
+			<chronologicalAge>131</chronologicalAge>
+			<skills>
+				<li>
+					<name>Shooting</name>
+					<value>6</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Melee</name>
+					<value>2</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Construction</name>
+					<value>3</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Mining</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Cooking</name>
+					<value>3</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Plants</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Animals</name>
+					<value>7</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Crafting</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Artistic</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Medicine</name>
+					<value>2</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Social</name>
+					<value>2</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Intellectual</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+			</skills>
+			<apparel>
+				<li>
+					<layer>BottomClothingLayer</layer>
+					<apparel>Apparel_Pants</apparel>
+					<stuff>Synthread</stuff>
+					<color>RGBA(0.682, 0.859, 0.894, 1.000)</color>
+				</li>
+			</apparel>
+			<ideo>
+				<name>This is Mine</name>
+				<certainty>0.7591175</certainty>
+				<culture>OG_Imperial_Militarum_Spacer</culture>
+				<memes>
+					<li>OG_Imperial_Structure_TheistEmbodied</li>
+					<li>Supremacist</li>
+				</memes>
+			</ideo>
+			<abilities />
+			<implants />
+			<injuries>
+				<li>
+					<hediffDef>Bite</hediffDef>
+					<bodyPart>Leg</bodyPart>
+					<severity>2</severity>
+					<painFactor>0</painFactor>
+				</li>
+				<li>
+					<hediffDef>Scratch</hediffDef>
+					<bodyPart>Neck</bodyPart>
+					<severity>4</severity>
+					<painFactor>0</painFactor>
+				</li>
+				<li>
+					<hediffDef>Bite</hediffDef>
+					<bodyPart>Arm</bodyPart>
+					<bodyPartIndex>1</bodyPartIndex>
+					<severity>3</severity>
+					<painFactor>0</painFactor>
+				</li>
+			</injuries>
+			<compFields>
+				<crownType>Narrow_Pointy</crownType>
+				<addonVariants IsNull="True" />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.250, 0.200, 0.150, 1.000)</first>
+							<second>RGBA(0.250, 0.200, 0.150, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.685, 0.477, 0.263, 1.000)</first>
+							<second>RGBA(0.685, 0.477, 0.263, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.577, 0.403, 0.217, 0.800)</first>
+							<second>RGBA(0.577, 0.403, 0.217, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>skin</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+			</compFields>
+			<savedComps>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			</savedComps>
+		</li>
+		<li>
+			<id>8f7fe4e4-1c64-471e-b801-8b85a3c927d7</id>
+			<type>Temporary</type>
+			<faction IsNull="True" />
+			<pawnKindDef>Colonist</pawnKindDef>
+			<originalFactionDef>PlayerColony</originalFactionDef>
+			<childhood>IndustrialOrphan13</childhood>
+			<adulthood>SpaceMarine16</adulthood>
+			<traits>
+				<li>
+					<def>RCT_Medic</def>
+					<degree>1</degree>
+				</li>
+				<li>
+					<def>VTE_HeatInclined</def>
+				</li>
+				<li>
+					<def>Bisexual</def>
+				</li>
+			</traits>
+			<traitNames />
+			<traitDegrees />
+			<skinColor>RGBA(0.962, 0.931, 0.867, 1.000)</skinColor>
+			<melanin>0.7793505</melanin>
+			<bodyType>Hulk</bodyType>
+			<headGraphicPath>Things/Pawn/Humanlike/Heads/Male_Narrow_Wide</headGraphicPath>
+			<hairDef>VHE_Sam</hairDef>
+			<hairColor>RGBA(0.300, 0.200, 0.100, 1.000)</hairColor>
+			<beard>Machete</beard>
+			<faceTattoo>NoTattoo_Face</faceTattoo>
+			<bodyTattoo>NoTattoo_Body</bodyTattoo>
+			<hairDef>VHE_Sam</hairDef>
+			<firstName>Solomon</firstName>
+			<nickName>Solomon</nickName>
+			<lastName>Covovathes</lastName>
+			<favoriteColor>RGBA(0.580, 0.263, 0.263, 1.000)</favoriteColor>
+			<biologicalAge>26</biologicalAge>
+			<chronologicalAge>88</chronologicalAge>
+			<skills>
+				<li>
+					<name>Shooting</name>
+					<value>4</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Melee</name>
+					<value>5</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Construction</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Mining</name>
+					<value>4</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Cooking</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Plants</name>
+					<value>3</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Animals</name>
+					<value>7</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Crafting</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Artistic</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Medicine</name>
+					<value>3</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Social</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Intellectual</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+			</skills>
+			<apparel>
+				<li>
+					<layer>BottomClothingLayer</layer>
+					<apparel>VAE_Apparel_Jeans</apparel>
+					<stuff>Synthread</stuff>
+					<color>RGBA(0.682, 0.859, 0.894, 1.000)</color>
+				</li>
+				<li>
+					<layer>Hat</layer>
+					<apparel>VAE_Headgear_Scarf</apparel>
+					<stuff>Synthread</stuff>
+					<color>RGBA(0.682, 0.859, 0.894, 1.000)</color>
+				</li>
+			</apparel>
+			<ideo>
+				<name>This is Mine</name>
+				<certainty>0.9125548</certainty>
+				<culture>OG_Imperial_Militarum_Spacer</culture>
+				<memes>
+					<li>OG_Imperial_Structure_TheistEmbodied</li>
+					<li>Supremacist</li>
+				</memes>
+			</ideo>
+			<abilities />
+			<implants />
+			<injuries />
+			<compFields>
+				<crownType>Narrow_Wide</crownType>
+				<addonVariants IsNull="True" />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.300, 0.200, 0.100, 1.000)</first>
+							<second>RGBA(0.300, 0.200, 0.100, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.962, 0.931, 0.867, 1.000)</first>
+							<second>RGBA(0.962, 0.931, 0.867, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.819, 0.568, 0.321, 0.800)</first>
+							<second>RGBA(0.819, 0.568, 0.321, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>skin</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+			</compFields>
+			<savedComps>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			</savedComps>
+		</li>
+		<li>
+			<id>8be9a73a-4b23-4ee9-ae2d-33a66354f379</id>
+			<type>Temporary</type>
+			<faction IsNull="True" />
+			<pawnKindDef>Colonist</pawnKindDef>
+			<originalFactionDef>PlayerColony</originalFactionDef>
+			<gender>Female</gender>
+			<childhood>StoryWriter67</childhood>
+			<adulthood>MedievalSailor97</adulthood>
+			<traits>
+				<li>
+					<def>VTE_Slob</def>
+				</li>
+				<li>
+					<def>Tough</def>
+				</li>
+				<li>
+					<def>Asexual</def>
+				</li>
+			</traits>
+			<traitNames />
+			<traitDegrees />
+			<skinColor>RGBA(1.000, 0.937, 0.759, 1.000)</skinColor>
+			<melanin>0.9653596</melanin>
+			<bodyType>Female</bodyType>
+			<headGraphicPath>Things/Pawn/Humanlike/Heads/Female_Narrow_Wide</headGraphicPath>
+			<hairDef>Long</hairDef>
+			<hairColor>RGBA(0.703, 0.703, 0.703, 1.000)</hairColor>
+			<beard>NoBeard</beard>
+			<faceTattoo>NoTattoo_Face</faceTattoo>
+			<bodyTattoo>NoTattoo_Body</bodyTattoo>
+			<hairDef>Long</hairDef>
+			<firstName>Angar</firstName>
+			<nickName>Kiri Chort-Gorfia</nickName>
+			<lastName>Kiri Chort-Gorfia</lastName>
+			<favoriteColor>RGBA(0.325, 0.580, 0.263, 1.000)</favoriteColor>
+			<biologicalAge>53</biologicalAge>
+			<chronologicalAge>669</chronologicalAge>
+			<skills>
+				<li>
+					<name>Shooting</name>
+					<value>4</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Melee</name>
+					<value>3</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Construction</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Mining</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Cooking</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Plants</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Animals</name>
+					<value>8</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Crafting</name>
+					<value>0</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Artistic</name>
+					<value>2</value>
+					<passion>Minor</passion>
+				</li>
+				<li>
+					<name>Medicine</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+				<li>
+					<name>Social</name>
+					<value>4</value>
+					<passion>Major</passion>
+				</li>
+				<li>
+					<name>Intellectual</name>
+					<value>1</value>
+					<passion>None</passion>
+				</li>
+			</skills>
+			<apparel>
+				<li>
+					<layer>BottomClothingLayer</layer>
+					<apparel>VAE_Apparel_Jeans</apparel>
+					<stuff>Synthread</stuff>
+					<color>RGBA(0.682, 0.859, 0.894, 1.000)</color>
+				</li>
+			</apparel>
+			<ideo>
+				<name>This is Mine</name>
+				<certainty>0.7626606</certainty>
+				<culture>OG_Imperial_Militarum_Spacer</culture>
+				<memes>
+					<li>OG_Imperial_Structure_TheistEmbodied</li>
+					<li>Supremacist</li>
+				</memes>
+			</ideo>
+			<abilities />
+			<implants />
+			<injuries />
+			<compFields>
+				<crownType>Narrow_Wide</crownType>
+				<addonVariants IsNull="True" />
+				<colorChannels>
+					<keys>
+						<li>base</li>
+						<li>hair</li>
+						<li>skin</li>
+						<li>tattoo</li>
+					</keys>
+					<values>
+						<li>
+							<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+							<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.703, 0.703, 0.703, 1.000)</first>
+							<second>RGBA(0.703, 0.703, 0.703, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(1.000, 0.937, 0.759, 1.000)</first>
+							<second>RGBA(1.000, 0.937, 0.759, 1.000)</second>
+						</li>
+						<li>
+							<first>RGBA(0.430, 0.303, 0.157, 0.800)</first>
+							<second>RGBA(0.430, 0.303, 0.157, 0.800)</second>
+						</li>
+					</values>
+				</colorChannels>
+				<colorChannelLinks>
+					<keys>
+						<li>skin</li>
+					</keys>
+					<values>
+						<li>
+							<li>
+								<first>skin</first>
+							</li>
+						</li>
+					</values>
+				</colorChannelLinks>
+			</compFields>
+			<savedComps>
+				<li>AlienRace.AlienPartGenerator+AlienComp</li>
+			</savedComps>
+		</li>
+	</pawns>
+	<parentChildGroups>
+		<li>
+			<parents>
+				<li>ce2f3d0f-fcad-4089-87b9-8fe2a3b8a044</li>
+				<li>8f7fe4e4-1c64-471e-b801-8b85a3c927d7</li>
+			</parents>
+			<children>
+				<li>4cc62b34-114f-4e39-9058-53f311ffef64</li>
+				<li>079a06e1-3b5d-4cb4-94e2-0578a22ca710</li>
+			</children>
+		</li>
+		<li>
+			<parents>
+				<li>8be9a73a-4b23-4ee9-ae2d-33a66354f379</li>
+			</parents>
+			<children>
+				<li>1fc41a63-f7d6-44bd-a39a-d7bc95502a0d</li>
+			</children>
+		</li>
+	</parentChildGroups>
+	<relationships />
+	<equipment>
+		<li>
+			<def>Silver</def>
+			<count>800</count>
+		</li>
+		<li>
+			<def>MealSurvivalPack</def>
+			<count>50</count>
+		</li>
+		<li>
+			<def>MedicineIndustrial</def>
+			<count>30</count>
+		</li>
+		<li>
+			<def>ComponentIndustrial</def>
+			<count>30</count>
+		</li>
+		<li>
+			<def>Gun_BoltActionRifle</def>
+			<count>1</count>
+		</li>
+		<li>
+			<def>Gun_Revolver</def>
+			<count>1</count>
+		</li>
+		<li>
+			<def>MeleeWeapon_Knife</def>
+			<stuffDef>Plasteel</stuffDef>
+			<count>1</count>
+		</li>
+		<li>
+			<def>Apparel_FlakPants</def>
+			<count>1</count>
+		</li>
+		<li>
+			<def>Apparel_FlakVest</def>
+			<count>1</count>
+		</li>
+		<li>
+			<def>Apparel_AdvancedHelmet</def>
+			<stuffDef>Plasteel</stuffDef>
+			<count>1</count>
+		</li>
+		<li>
+			<def>AA_AnimusVox</def>
+			<gender>Female</gender>
+			<count>1</count>
+		</li>
+		<li>
+			<def>Steel</def>
+			<count>450</count>
+		</li>
+		<li>
+			<def>WoodLog</def>
+			<count>300</count>
+		</li>
+		<li>
+			<def>ModernTent</def>
+			<stuffDef>Cloth</stuffDef>
+			<count>3</count>
+		</li>
+	</equipment>
+</preset>

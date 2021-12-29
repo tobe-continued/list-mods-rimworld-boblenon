@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<character>
+	<version>5</version>
+	<mods>Harmony, Core, Royalty, Ideology, HugsLib, JecsTools, Royalty Tweaks, RimHUD, XML Extensions, Vanilla Expanded Framework, Vanilla Expanded - Royalty Patches, [FSF] Vanilla Bionics Expansion, Vanilla Furniture Expanded - Architect, More Vanilla Turrets 1.1+, More Vanilla Biomes, Vanilla Weapons Expanded - Laser, Vanilla Weapons Expanded, Vanilla Weapons Expanded - Heavy Weapons, Vanilla Weapons Expanded - Coilguns, Vanilla Factions Expanded - Settlers, Vanilla Weapons Expanded - Frontier, Vanilla Weapons Expanded - Non-Lethal, Vanilla Social Interactions Expanded, Rimsenal - Augmented Vanilla Pack, Vanilla Traits Expanded, Vanilla Animals Expanded — Temperate Forest, Vanilla Factions Expanded - Vikings, Vanilla Books Expanded, Vanilla Factions Expanded - Medieval, Vanilla Furniture Expanded - Spacer Module, Vanilla Textures Expanded, Vanilla Hair Expanded, Vanilla Events Expanded, Vanilla Animals Expanded — Cats and Dogs, Vanilla Furniture Expanded - Art, Vanilla Fishing Expanded, Vanilla Furniture Expanded - Farming, Vanilla Apparel Expanded, Vanilla Armour Expanded, Vanilla Furniture Expanded - Production, Vanilla Furniture Expanded - Medical Module, Vanilla Furniture Expanded - Security, Vanilla Furniture Expanded, Alpha Animals, Vanilla Ideology Expanded - Memes and Structures, Gunplay, Dual Wield, Yayo's Animation, Yayo's Combat 3 [Adopted], More Components, Keep Bed Ownership, Mining Priority, Harvest Everything!, People Can Change, Callouts, Nurse Job, Quality Cooldown, [WD] Partially-Passable Wind Turbines, Toggle Harvest, War Crimes Expanded 2 Core, Simple Utilities: Ceiling, Perfect Pathfinding, [SYR] More Slaves, [KV] Adjustable Trade Ships, RimNauts, Dire Raids, MedPod, Large Faction Bases, Clean Pathfinding, Astra Militarum Imperial Guard Core Mod v2.3, Humanoid Alien Races, SRTS Expanded, Adeptus Mechanicus: Armoury, Real Faction Guest, Easy Speedup, Animals are fun, Quest Reward Rebalance, Advanced Power Plus, What's Missing?, Carry Capacity Fixed, Do Something for Idle, Almost There!, [FSF] Growable Grass, Concrete Walls, Pawn Rules, Bad Can Be Good, Un-Limited, Build From Inventory, Wall Vitals Monitor, In-wall coolers and vents, ProxyHeat, Use Bedrolls, Trader ships, Medical Training, Fahrenheit and Celsius, Reinforced Walls, Camping Tent, Won hair_men, Room Food, [KV] Path Avoid, No Sympathy for Prisoners, Conduit Deconstruct, No Lazy Doctors, More Harvest Designators!, [SS]Lovely Hair Style, More Sculpture, Range Finder, Therapy, Reasonable Components, Trade Ships Drop Spot, Mass Graves, Cybernetic Organism and Neural Network, PrisonerRansom, [KV] Consolidated Traits, Subsurface Conduit, Sometimes Raids Go Wrong, Haul to Stack, [NL] Facial Animation - WIP, Statue of Colonist, Vanilla Furniture Expanded - Power, More Linkables, Grazing Lands, RIMkea, Auto-Cut Blight, Mortar Accuracy, Children, school and learning, Tech Advancing, QualitySurgeon, Search and Destroy, Area Unlocker, Go Explore!, [KV] Faction Control, Repair Workbench, Just Ignore Me Passing, Call of Cthulhu - Cosmic Horrors, While You're Up / PUAH+, Beautiful Outdoors, Ugh You Got Me, Room Sense, MendAndRecycle, Where is my weapon?, Rimsenal - Rimhair, Dubs Rimatomics, Rimsenal - Core, Door Mat, Show Draftees Weapon, Smart Speed, Rimefeller, Prisoner Harvesting, Smart Medicine, Bionic icons, Misc. Robots, Pick Up And Haul, Replace Stuff, Colony Manager, QualityBuilder, Interaction Bubbles, Blueprints, Increased Stack, Tilled Soil, Simple sidearms, Defensive Positions, Work Tab, Camera+, Animal Tab, Share The Load, Misc. Training, Mad Skills, Stack XXL, Animals Logic, Doors Expanded, Map Reroll, [FSF] Filth Vanishes With Rain And Time, CM Color Coded Mood Bar [1.1+], Common Sense, Heat Map, Recipe icons, [KV] Show Hair With Hats or Hide All Hats, Quarry, Smarter Construction, Combat Update 1.3, [WD] Expanded Floors, Beautiful Bodies, More Steel, Bulk Smelting, [RF] Rational Romance (Continued), DragSelect, Go the F*** to Sleep, Temperature Control Unit, EdB Prepare Carefully, Wall Light, Expanded Prosthetics and Organ Engineering - Forked, Allow Tool, Medical Tab, Hospitality, Beast Man Tribes, Androids, [SR]Factional War, Live With The Pain, Nationalist Militarism, Plasma Weaponry (Continued), Ranged Shield Belt Tiers, Holsters, StarWars - 212th Airborne Trooper, Toggleable Readouts, Rimsenal Style Pack - Techist, Line Of Sight Fix, Performance Optimizer, Romance On The Rim, Premarital Sex, Cremate Auto Strip, Plasteel Surgery (Continued), [PS] Reconditioning Pod (Continued), I Clearly Have Enough! (Continued), Rejuvenate Surgery, Silent Doors (Continued), Quality Bionics, Nano Repair Tech, Taming Artifact, Metals Trader, [SYR] Neuter, Transport Cargo Pod, Less Stupid Romance Attempt (Continued), Share The Load, Simple Recycling, More Crashed Ship Parts, Plant Human, Power Tools, Babies and Children [1.3], Job Splitter, LightsOut, Apparel Tainted Only When Corpse Rots, [SYR] Bullet Casings, Rimlaser, Prisoner Recreation, Traders Have Money, [SYR] Prosthetic Table, Industrialisation, RT Power Switch, Chatting on Comms, Faster Smoothing, What Is My Purpose, ED-Shields, Higher Power, Windows, Do Your F****** Research, Dynamic Population, Set Owner for Prisoner Beds, Artillery Gun, Armor Racks, Faster Biosculpter Pod, Adeptus Xenobiologis: Orkoids, Adeptus Xenobiologis: Aeldari, Adeptus Xenobiologis: Tau, Kroot, Vespid, Heavy Duty Turrets, Z_More Pulse Turrets 更多脉冲炮塔, Z_High Performance Turrets 高性能炮台, Z_More Pulse Turrets+ 更多脉冲炮塔+, Smart Turret Covering, Tranquilizer Turret, Simple Turrets, Expanded Charge Weaponry, Milk The Boomalope Now, I Dare You, Rename Pawns, RenameColony, Utility Columns, [1.3] Nukes, Armored Leotards, Electric Butcher Table, Respect the Scars, Repair Items, Tranquilizer Gun, Net Gun, CaravanOptions, Better Multi-Analyzers, Electric Art Bench and Powered floor panel mod</mods>
+	<pawn>
+		<id>1fc41a63-f7d6-44bd-a39a-d7bc95502a0d</id>
+		<type>Colonist</type>
+		<faction IsNull="True" />
+		<pawnKindDef>Colonist</pawnKindDef>
+		<originalFactionDef>PlayerColony</originalFactionDef>
+		<gender>Female</gender>
+		<childhood>ChJAndroid_Child_Biosphere</childhood>
+		<adulthood>ChJAndroid_Adult_Medical</adulthood>
+		<traits>
+			<li>
+				<def>SpeedOffset</def>
+				<degree>2</degree>
+			</li>
+			<li>
+				<def>RCT_Inventor</def>
+			</li>
+			<li>
+				<def>VTE_MadSurgeon</def>
+			</li>
+			<li>
+				<def>Straight</def>
+			</li>
+			<li>
+				<def>Beauty</def>
+				<degree>1</degree>
+			</li>
+		</traits>
+		<traitNames />
+		<traitDegrees />
+		<skinColor>RGBA(1.000, 0.937, 0.822, 1.000)</skinColor>
+		<melanin>0.3875093</melanin>
+		<bodyType>Female</bodyType>
+		<headGraphicPath>Things/Pawn/Humanlike/Heads/Female/Female_Average_Normal</headGraphicPath>
+		<hairDef>Flowy</hairDef>
+		<hairColor>RGBA(0.847, 0.669, 0.355, 1.000)</hairColor>
+		<beard>NoBeard</beard>
+		<faceTattoo>NoTattoo_Face</faceTattoo>
+		<bodyTattoo>NoTattoo_Body</bodyTattoo>
+		<hairDef>Flowy</hairDef>
+		<firstName>Summer</firstName>
+		<nickName>Baby</nickName>
+		<lastName>Solstice</lastName>
+		<favoriteColor>RGBA(1.000, 0.878, 0.405, 1.000)</favoriteColor>
+		<biologicalAge>24</biologicalAge>
+		<chronologicalAge>28</chronologicalAge>
+		<skills>
+			<li>
+				<name>Shooting</name>
+				<value>4</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Melee</name>
+				<value>1</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Construction</name>
+				<value>1</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Mining</name>
+				<value>1</value>
+				<passion>None</passion>
+			</li>
+			<li>
+				<name>Cooking</name>
+				<value>3</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Plants</name>
+				<value>2</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Animals</name>
+				<value>8</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Crafting</name>
+				<value>4</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Artistic</name>
+				<value>11</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Medicine</name>
+				<value>10</value>
+				<passion>Major</passion>
+			</li>
+			<li>
+				<name>Social</name>
+				<value>6</value>
+				<passion>Minor</passion>
+			</li>
+			<li>
+				<name>Intellectual</name>
+				<value>10</value>
+				<passion>Major</passion>
+			</li>
+		</skills>
+		<apparel>
+			<li>
+				<layer>BottomClothingLayer</layer>
+				<apparel>VAE_Apparel_DoctorScrubs</apparel>
+			</li>
+			<li>
+				<layer>TopClothingLayer</layer>
+				<apparel>Apparel_RobeRoyal</apparel>
+				<stuff>Synthread</stuff>
+				<color>RGBA(1.000, 0.815, 0.548, 1.000)</color>
+			</li>
+		</apparel>
+		<ideo>
+			<name>This is Mine</name>
+			<certainty>1</certainty>
+			<culture>OG_Imperial_Militarum_Spacer</culture>
+			<memes>
+				<li>OG_Imperial_Structure_TheistEmbodied</li>
+				<li>Supremacist</li>
+			</memes>
+		</ideo>
+		<abilities />
+		<implants>
+			<li>
+				<bodyPart>Hand</bodyPart>
+				<recipe>InstallAdvancedBionicHand</recipe>
+			</li>
+		</implants>
+		<injuries />
+		<compFields>
+			<crownType>Average_Normal</crownType>
+			<addonVariants />
+			<colorChannels>
+				<keys>
+					<li>base</li>
+					<li>hair</li>
+					<li>skin</li>
+					<li>tattoo</li>
+				</keys>
+				<values>
+					<li>
+						<first>RGBA(1.000, 1.000, 1.000, 1.000)</first>
+						<second>RGBA(1.000, 1.000, 1.000, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(0.847, 0.669, 0.355, 1.000)</first>
+						<second>RGBA(0.805, 0.805, 0.805, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(1.000, 0.937, 0.822, 1.000)</first>
+						<second>RGBA(1.000, 0.937, 0.822, 1.000)</second>
+					</li>
+					<li>
+						<first>RGBA(1.000, 0.937, 0.784, 0.800)</first>
+						<second>RGBA(1.000, 0.937, 0.784, 0.800)</second>
+					</li>
+				</values>
+			</colorChannels>
+			<colorChannelLinks>
+				<keys>
+					<li>skin</li>
+				</keys>
+				<values>
+					<li>
+						<li>
+							<first>skin</first>
+						</li>
+					</li>
+				</values>
+			</colorChannelLinks>
+		</compFields>
+		<savedComps>
+			<li>AlienRace.AlienPartGenerator+AlienComp</li>
+		</savedComps>
+	</pawn>
+</character>
